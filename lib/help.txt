@@ -1,5 +1,14 @@
 This API enables cross-origin requests to anywhere.
 
+NOTE: This is a different flavor of CORS Anywhere, modified for easier usage in Observable
+Notebooks. Find more information here:
+
+https://github.com/asg017/cors-anywhere-observable/
+
+
+Requests will probably only work if they are coming from specific user's notebooks.
+
+
 Usage:
 
 /               Shows help
