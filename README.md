@@ -6,6 +6,17 @@ A forked copy of the [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) in
 All Documentation for Cors Anywhere can be found in [that GitHub repo](https://github.com/Rob--W/cors-anywhere). 
 
 
+[Observable Notebook Documentation](https://beta.observablehq.com/d/d156a08094928fe0)
+
+## Instructions
+
+1. Click the Deploy button above.
+2. Give your app a name 
+3. For the CORSANYWHERE_WHITELIST env var, place `https://YOUR_OBSERVABLE_USERNAME.static.observableusercontent.com`
+4. Click "Deploy App"
+5. Your CORS Anywhere (Observable flavor) will be live!
+
+
 ## Why?
 
 In Observable, sometimes you'll need to access a resource that does not have CORS enabled. The standard fix for this would be to prepend https://cors-anywhere.herokuapp.com to your resource and you'd be good to go. However, that server is offered as a demo and you'll get rate-limited. 
