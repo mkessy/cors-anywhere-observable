@@ -1,7 +1,7 @@
 # CORS Anywhere Observable
 A forked copy of the [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) intended for Observable Notebook usage.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 All Documentation for Cors Anywhere can be found in [that GitHub repo](https://github.com/Rob--W/cors-anywhere). 
 
