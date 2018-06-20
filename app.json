@@ -1,0 +1,17 @@
+{
+  "name": "CORS Anywhere Observable",
+  "description": "Forked copy of CORS Anywhere specifically for Observable Notebook usage",
+  "keywords": [
+    "node",
+    "observable",
+    "cors"
+  ],
+  "website": "https://beta.observablehq.com/d/d156a08094928fe0",
+  "repository": "https://github.com/asg017/cors-anywhere-observable",
+  "env": {
+    "CORSANYWHERE_WHITELIST": {
+      "description": "List of domains to whitelist - e.g. 'https://asg017.static.observableusercontent.com' ",
+      "generator": "https://<YOUR_OBSERVABLE_USERNAME>.static.observableusercontent.com"
+    }
+  }
+}
