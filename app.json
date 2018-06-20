@@ -10,8 +10,7 @@
   "repository": "https://github.com/asg017/cors-anywhere-observable",
   "env": {
     "CORSANYWHERE_WHITELIST": {
-      "description": "List of domains to whitelist - e.g. 'https://asg017.static.observableusercontent.com' ",
-      "generator": "https://<YOUR_OBSERVABLE_USERNAME>.static.observableusercontent.com"
+      "description": "For Observable, use 'https://YOUR_OBSERVABLE_USERNAME.static.observableusercontent.com' "
     }
   }
 }
