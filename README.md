@@ -53,6 +53,15 @@ For example, for me, I have something like:
  I have a generic warning message under [my toolbox](https://beta.observablehq.com/@asg017/toolbox#corsWarning) so I could import it easily in all of my notebooks.
  
 
+## Differences
+
+Differences between CORS Anywhere and this CORS Anywhere Observable server are:
+
+- "Deploy to Heroku" button - app.json
+- Added message to help text
+- README changed a whole lot
+- [Added to error message to whitelist](https://github.com/asg017/cors-anywhere-observable/blob/master/lib/cors-anywhere.js#L341-L345)
+
 
 ## License
 
