@@ -60,7 +60,7 @@ Differences between CORS Anywhere and this CORS Anywhere Observable server are:
 - "Deploy to Heroku" button - app.json
 - Added message to help text
 - README changed a whole lot
-- [Added to error message to whitelist](https://github.com/asg017/cors-anywhere-observable/blob/master/lib/cors-anywhere.js#L341-L345)
+- [Added to whitelist error message](https://github.com/asg017/cors-anywhere-observable/blob/master/lib/cors-anywhere.js#L341-L345)
 
 
 ## License
